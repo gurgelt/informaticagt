@@ -13,6 +13,7 @@
     <!-- Link CSS -->
     <link rel="stylesheet" href="./css/responsive.css" media="screen" />
     <link rel="stylesheet" href="./css/style.css" />
+    <link rel="stylesheet" href="/css/loading.css" />
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -27,6 +28,10 @@
     />
   </head>
   <body>
+    <div class="preloader" id="preloader">
+      <div class="loader" id="loader"></div>
+    </div>
+
     <header id="header">
       <div class="interface">
         <section class="logo">
@@ -306,5 +311,6 @@
     </footer>
     <script src="./js/script.js"></script>
     <script src="./js/btn-menu-mob.js"></script>
+    <script src="./js/loading.js"></script>
   </body>
 </html>
