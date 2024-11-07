@@ -70,7 +70,7 @@ header .logo .logo-preta img {
 header.rolar {
   background-color: #ffffff;
   padding: 5px;
-  height: 19%;
+  height: 20%;
   box-shadow: 0 0 8px #000000a9;
 }
 
@@ -415,7 +415,7 @@ section.como-funciona {
 .como-funciona .txt-funciona {
   position: sticky;
   top: 50%;
-  padding-bottom: 30px;
+  padding-bottom: 35px;
 }
 
 .como-funciona .txt-funciona h3 {
