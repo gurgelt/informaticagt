@@ -1,4 +1,4 @@
-<img width="1887" height="934" alt="image" src="https://github.com/user-attachments/assets/5b032559-9102-48ad-8068-4d725abfd046" /># InfoGT Store - Site Institucional
+# InfoGT Store - Site Institucional
 
 ## Sobre o Projeto
 
@@ -22,6 +22,6 @@ O projeto foi construído utilizando as seguintes tecnologias:
 <img width="1890" height="937" alt="image" src="https://github.com/user-attachments/assets/72017582-7990-4efc-8641-1180c4545935" />
 <img width="1891" height="927" alt="image" src="https://github.com/user-attachments/assets/9d7f8bec-367e-4bf8-bf30-f5910562ca7b" />
 <img width="1887" height="934" alt="image" src="https://github.com/user-attachments/assets/6e575b37-c724-4b7a-be7a-6ad63164236c" />
-
+<img width="1887" height="934" alt="image" src="https://github.com/user-attachments/assets/5b032559-9102-48ad-8068-4d725abfd046" />
 <img width="1903" height="931" alt="image" src="https://github.com/user-attachments/assets/adaffde0-39c2-4ccf-b8f2-1394b693511e" />
 
