@@ -19,6 +19,8 @@ O projeto foi construído utilizando as seguintes tecnologias:
 * **Informações de Contato:** Disponibilidade de links diretos para contato via WhatsApp, e-mail e telefone.
 * **Destaque para a Qualidade:** O site enfatiza a qualificação da equipe técnica para gerar confiança nos clientes.
 
+* **Link do site: https://www.infogt.store/
+
 <img width="1890" height="937" alt="image" src="https://github.com/user-attachments/assets/72017582-7990-4efc-8641-1180c4545935" />
 <img width="1891" height="927" alt="image" src="https://github.com/user-attachments/assets/9d7f8bec-367e-4bf8-bf30-f5910562ca7b" />
 <img width="1887" height="934" alt="image" src="https://github.com/user-attachments/assets/5b032559-9102-48ad-8068-4d725abfd046" />
